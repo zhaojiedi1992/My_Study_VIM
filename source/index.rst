@@ -13,6 +13,4 @@
    :caption: VIM
    :numbered:
 
-   01导航
-   02查找替换
-   03复制粘贴删除
+   vim/*
