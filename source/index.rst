@@ -11,6 +11,7 @@
 .. toctree::
    :maxdepth: 2
    :caption: VIM
+   :glob:
    :numbered:
 
    vim/*
